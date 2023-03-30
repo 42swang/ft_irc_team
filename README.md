@@ -1,3 +1,14 @@
+# IRC_TEAM
+
+## 서버 실행방법  
+```
+make
+
+./ircserv <port> <password>
+```
+
+## 클라이언트 실행방법
+
 ### 선택한 클라이언트 : irssi  
   [irssi (깃허브)](https://github.com/irssi/irssi)  
   [irssi (홈페이지)](https://irssi.org/)  
@@ -43,4 +54,4 @@
   [ircv3](https://ircv3.net/specs/extensions/capability-negotiation.html)
 
 ---
-[ft_irc_team 위키 바로가기](https://github.com/42swang/ft_irc_team/wiki)
+[irc_team 위키 바로가기](https://github.com/wsehyeon/irc_team/wiki)
